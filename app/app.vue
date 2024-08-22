@@ -1,8 +1,8 @@
 <script setup lang="ts">
 useSeoMeta({
-  title: 'SPLRGE Go',
-  description: 'SPRLGE rediction app',
-  titleTemplate: '⚡ SPLRGE Go - %s'
+  title: 'NMTY Link',
+  description: 'NMTY rediction app',
+  titleTemplate: '⚡ NMTY Link - %s'
 })
 </script>
 
